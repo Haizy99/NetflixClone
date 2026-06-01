@@ -53,7 +53,7 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/browse?filter=mylist" className="hover:text-white transition">
+            <Link href="/watchlist" className="hover:text-white transition">
               My List
             </Link>
           </li>
